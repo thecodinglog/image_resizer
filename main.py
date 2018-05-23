@@ -1,12 +1,12 @@
 import PIL.Image
 import json
 
-im = PIL.Image.open('blog_icon.png')
-print(im.size)
-
-with open("asset_info.json") as f:
+with open("settings.json") as f:
     jsonData = json.load(f)
-    for item in jsonData["list"]:
+
+    im = PIL.Image.open(jsonData["input"])
+
+    for item in jsonData["output"]:
         lSize = (item["size"][0], item["size"][1])
         lFilename = (item["filename"].replace("{x}", str(item["size"][0])).replace("{y}", str(item["size"][1])))
 

@@ -1,5 +1,6 @@
 
-{"list":[
+{ "input":"input.png",
+  "output":[
   {"size":[144,144], "filename":"android-icon-{x}x{y}.png", "type":"png"},
   {"size":[192,192], "filename":"android-icon-{x}x{y}.png", "type":"png"},
   {"size":[36,36], "filename":"android-icon-{x}x{y}.png", "type":"png"},
@@ -30,6 +31,4 @@
   {"size":[150,150], "filename":"ms-icon-{x}x{y}.png", "type":"png"},
   {"size":[310,310], "filename":"ms-icon-{x}x{y}.png", "type":"png"},
   {"size":[70,70], "filename":"ms-icon-{x}x{y}.png", "type":"png"}
-
-
 ]}
