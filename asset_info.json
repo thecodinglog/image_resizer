@@ -1,0 +1,35 @@
+
+{"list":[
+  {"size":[144,144], "filename":"android-icon-{x}x{y}.png", "type":"png"},
+  {"size":[192,192], "filename":"android-icon-{x}x{y}.png", "type":"png"},
+  {"size":[36,36], "filename":"android-icon-{x}x{y}.png", "type":"png"},
+  {"size":[48,48], "filename":"android-icon-{x}x{y}.png", "type":"png"},
+  {"size":[72,72], "filename":"android-icon-{x}x{y}.png", "type":"png"},
+  {"size":[96,96], "filename":"android-icon-{x}x{y}.png", "type":"png"},
+
+  {"size":[114,114], "filename":"apple-icon-{x}x{y}.png", "type":"png"},
+  {"size":[120,120], "filename":"apple-icon-{x}x{y}.png", "type":"png"},
+  {"size":[144,144], "filename":"apple-icon-{x}x{y}.png", "type":"png"},
+  {"size":[152,152], "filename":"apple-icon-{x}x{y}.png", "type":"png"},
+  {"size":[180,180], "filename":"apple-icon-{x}x{y}.png", "type":"png"},
+
+  {"size":[57,57], "filename":"apple-icon-{x}x{y}.png", "type":"png"},
+  {"size":[60,60], "filename":"apple-icon-{x}x{y}.png", "type":"png"},
+  {"size":[72,72], "filename":"apple-icon-{x}x{y}.png", "type":"png"},
+  {"size":[76,76], "filename":"apple-icon-{x}x{y}.png", "type":"png"},
+  {"size":[192,192], "filename":"apple-icon-precomposed.png", "type":"png"},
+  {"size":[192,192], "filename":"apple-icon.png", "type":"png"},
+
+  {"size":[16,16], "filename":"favicon-{x}x{y}.png", "type":"png"},
+  {"size":[32,32], "filename":"favicon-{x}x{y}.png", "type":"png"},
+  {"size":[96,96], "filename":"favicon-{x}x{y}.png", "type":"png"},
+  {"size":[16,16], "filename":"favicon.png", "type":"png"},
+  {"size":[16,16], "filename":"favicon.ico", "type":"ico"},
+
+  {"size":[144,144], "filename":"ms-icon-{x}x{y}.png", "type":"png"},
+  {"size":[150,150], "filename":"ms-icon-{x}x{y}.png", "type":"png"},
+  {"size":[310,310], "filename":"ms-icon-{x}x{y}.png", "type":"png"},
+  {"size":[70,70], "filename":"ms-icon-{x}x{y}.png", "type":"png"}
+
+
+]}
